@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app_5_hooks/static/css/main.dfe7ddd0.css",
+    "main.js": "/my-app_5_hooks/static/js/main.6f6ed02d.js",
+    "static/media/pending.jpg": "/my-app_5_hooks/static/media/pending.b0f5666cdd62b6bb4470.jpg",
+    "static/media/error.jpeg": "/my-app_5_hooks/static/media/error.4226983c2c79c5a53021.jpeg",
+    "static/media/avatar.png": "/my-app_5_hooks/static/media/avatar.e44fc4e22a4ce55fbe43.png",
+    "index.html": "/my-app_5_hooks/index.html",
+    "main.dfe7ddd0.css.map": "/my-app_5_hooks/static/css/main.dfe7ddd0.css.map",
+    "main.6f6ed02d.js.map": "/my-app_5_hooks/static/js/main.6f6ed02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe7ddd0.css",
+    "static/js/main.6f6ed02d.js"
+  ]
+}
